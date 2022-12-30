@@ -1,13 +1,13 @@
 ![](header.png)
 
 ## I'm a 22yo CS Student @ Polytech Nice Sophia
-I am a Full Stack developer proficient with Angular and I really enjoy coding in TypeScript. I've worked on several projects using Node.js with Express.js and other libraries (multer, jwt, joi). I have a little experience with Spring and MongoDB. I also have experience with C++ and Python an would like to develop my skills in these languages.
+I am a Full Stack developer proficient with Angular and I really enjoy coding in TypeScript. I've worked on several projects using Node.js with Express.js and other libraries (multer, jwt, joi). I have a little experience with Spring and MongoDB. I also have experience with C++ and Python and would like to develop my skills in these languages.
 ### 🔭 I’m currently working on
 * [Wobble](https://github.com/christophe-ruiz/wobble), a mobile app dedicated to track your gym sessions !
   
 ### 🌱 I’m currently learning
 * Flutter
-* MongoDB (with mongoose)
+* MongoDB (with mongoose and spring data)
 * Redis
 
 ### 📚 I want to learn
