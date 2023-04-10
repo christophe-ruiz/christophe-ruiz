@@ -5,12 +5,11 @@ I am a Full Stack developer proficient with Angular and I really enjoy coding in
 ### 🔭 I’m currently working on
 * [Wobble](https://github.com/christophe-ruiz/wobble), a mobile app dedicated to track your gym sessions !
   
-### 🌱 I’m currently learning
+### 🌱 I’m currently learning about
 * Flutter
-* MongoDB (with mongoose and spring data)
 * Redis
 
-### 📚 I want to learn
+### 📚 I want to learn about
 * Pupetter
 * Kubernetes
 
